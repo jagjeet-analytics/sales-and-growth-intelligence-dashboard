@@ -15,7 +15,7 @@
 - [Key Learnings](#key-learnings)
 - [Dashboard Preview](#dashboard-preview)
 - [Results & Conclusion](#results--conclusion)
-- [Author](#author)
+- [Author](https://github.com/jagjeet-analytics/sales-and-growth-intelligence-dashboard/blob/main/README.md#author)
 
 ---
 
