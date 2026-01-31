@@ -8,18 +8,20 @@
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
-- [Tools & Technologies](#tools--technologies)
+- [Tools & Technologies](#tools-technologies)
 - [Dashboard Highlights](#dashboard-highlights)
-- [How to Explore the Dashboard Interactively](#how-to-explore-the-dashboard-interactively)
+- [How to Explore the Dashboard Interactively](#how-to-explore)
 - [Project Structure](#project-structure)
 - [Key Learnings](#key-learnings)
 - [Dashboard Preview](#dashboard-preview)
-- [Results & Conclusion](#results--conclusion)
-- [Author](https://github.com/jagjeet-analytics/sales-and-growth-intelligence-dashboard/blob/main/README.md#author)
+- [Results & Conclusion](#results)
+- [Author](#author)
+
 
 ---
 
-## 📌 Overview
+## 📌 Overview <a id="overview"></a>
+
 The **Sales & Growth Intelligence Dashboard** transforms raw transactional sales data into clear, actionable business insights.
 
 It provides a consolidated view of key metrics and enables users to explore trends, patterns, and comparisons across multiple dimensions through an interactive Excel-based interface.
@@ -28,7 +30,8 @@ The project emphasizes **clarity, structure, and insight-driven visualization** 
 
 ---
 
-## 🎯 Problem Statement
+## 🎯 Problem Statement <a id="problem-statement"></a>
+
 Businesses often struggle to:
 - Track overall sales and profit performance
 - Understand regional and product-level trends
@@ -39,7 +42,8 @@ This project addresses these challenges by presenting critical metrics and trend
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset <a id="dataset"></a>
+
 - **File:** `raw_dataset.xlsx`
 - **Location:** `data/`
 
@@ -53,7 +57,8 @@ The dataset includes transactional sales data such as:
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Technologies <a id="tools-technologies"></a>
+
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
 - Slicers & Filters  
@@ -62,7 +67,8 @@ The dataset includes transactional sales data such as:
 
 ---
 
-## 📈 Dashboard Highlights
+## 📈 Dashboard Highlights <a id="dashboard-highlights"></a>
+
 The dashboard provides insights into:
 - **Total Sales and Net Profit KPIs**
 - **Online vs Offline Sales Performance**
@@ -75,7 +81,8 @@ The dashboard provides insights into:
 
 ---
 
-## 🔍 How to Explore the Dashboard Interactively
+## 🔍 How to Explore the Dashboard Interactively <a id="how-to-explore"></a>
+
 To experience the full interactivity of the dashboard:
 
 1. **Download the dashboard file**:  
@@ -101,7 +108,7 @@ To experience the full interactivity of the dashboard:
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure <a id="project-structure"></a>
 
     sales-and-growth-intelligence-dashboard/
     ├── README.md
@@ -115,7 +122,8 @@ To experience the full interactivity of the dashboard:
 
 ---
 
-## 🚀 Key Learnings
+## 🚀 Key Learnings <a id="key-learnings"></a>
+
 - Learned how to structure raw transactional data for meaningful analysis  
 - Improved ability to identify sales and growth patterns across regions and products  
 - Gained hands-on experience in building interactive dashboards using Excel slicers  
@@ -125,12 +133,14 @@ To experience the full interactivity of the dashboard:
 
 
 ---
-## 🖼 Dashboard Preview
+## 🖼 Dashboard Preview <a id="dashboard-preview"></a>
+
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ---
 
-## ✅ Results & Conclusion
+## ✅ Results & Conclusion <a id="results"></a>
+
 The dashboard successfully provides a structured and interactive way to:
 - monitor business performance,
 - identify trends and patterns,
@@ -141,7 +151,8 @@ It demonstrates how Excel can be effectively used for analytical and business in
 
 ---  
 
-## 👤 Author
+## 👤 Author <a id="author"></a>
+
 **Jagjeet Singh**  
 Aspiring Data Analyst  
 
