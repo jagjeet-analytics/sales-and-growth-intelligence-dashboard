@@ -1,6 +1,6 @@
 # 📊 Sales & Growth Intelligence Dashboard
 
-**An interactive Excel dashboard that analyzes sales performance, profitability, and growth trends across regions, products, and time.**
+**An interactive Excel dashboard that analyzes sales performance, profitability, and growth trends across multiple dimensions to deliver clear, business-ready insights.**
 
 ---
 
@@ -77,7 +77,6 @@ The dashboard provides insights into:
 - **Region-wise and City-wise Trends**
 - **Product Category & Sub-category Performance**
 - **Monthly Sales Trends**
-- **Quantity Sold vs Net Sales Comparison**
 
 ---
 
