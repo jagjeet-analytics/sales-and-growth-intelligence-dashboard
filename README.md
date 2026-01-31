@@ -86,7 +86,7 @@ To experience the full interactivity of the dashboard:
 
 1. **Download the dashboard file**:  
    👉 [sales_and_growth_intelligence_dashboard.xlsx](dashboard/sales_and_growth_intelligence_dashboard.xlsx)
-    - Then click **View raw** to download it
+    - Click **View raw** to start the download.
 
 
 3. **Open it in Microsoft Excel** (desktop version recommended).
