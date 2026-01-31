@@ -80,11 +80,12 @@ To experience the full interactivity of the dashboard:
 
 1. **Download the dashboard file**:  
    👉 [sales_and_growth_intelligence_dashboard.xlsx](dashboard/sales_and_growth_intelligence_dashboard.xlsx)
+    - Then click **View raw** to download it
 
 
-2. **Open it in Microsoft Excel** (desktop version recommended).
+3. **Open it in Microsoft Excel** (desktop version recommended).
 
-3. Use the interactive **slicers** to filter data by:
+4. Use the interactive **slicers** to filter data by:
 - Date
 - Sales Channel
 - Payment Mode
