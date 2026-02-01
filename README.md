@@ -108,15 +108,16 @@ To experience the full interactivity of the dashboard:
 ---
 
 ## 📁 Project Structure <a id="project-structure"></a>
-
-    sales-and-growth-intelligence-dashboard/
-    ├── README.md
-    ├── data/
-    │   └── raw_dataset.xlsx
-    ├── dashboard/
-    │   └── sales_and_growth_intelligence_dashboard.xlsx
-    └── screenshots/
-        └── dashboard_overview.png
+```
+sales-and-growth-intelligence-dashboard/
+├── README.md
+├── dashboard/
+│   └── sales_and_growth_intelligence_dashboard.xlsx
+├── data/
+│   └── raw_dataset.xlsx
+└── screenshots/
+    └── dashboard_overview.png
+```
 
 
 ---
